@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arpit Agnihotri 
-- 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Development 
-- 💞️ I’m looking to collaborate on DevSecOps Native Tools
+- 👀 I’m working in DevSecOps
+- 💞️ I’m collaborating on DevSecOps Native Tools
 - 📫 How to reach me agnihotriarpit353@gmail.com
 - 💬 Ask me about: DevOps & Linux 
 
