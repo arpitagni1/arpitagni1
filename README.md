@@ -2,98 +2,155 @@
 
 # Hi 👋, I'm Arpit Agnihotri
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+%26+DevSecOps+Engineer;Cloud+%26+Infrastructure+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+Terraform+%7C+Ansible;Java+%26+Spring+Boot+Developer;Always+Learning+%26+Building)](https://git.io/typing-svg)
+### DevOps & DevSecOps Engineer | Cloud | Automation | Infrastructure
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=750\&lines=DevOps+%26+DevSecOps+Engineer;CI%2FCD+%7C+Cloud+%7C+Infrastructure+Automation;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;Linux+%7C+AWS+%7C+Ansible;Java+%7C+Spring+Boot+%7C+Python;Monitoring+%7C+Observability+%7C+Automation)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Arpit Agnihotri**, a DevOps & DevSecOps enthusiast from 🇮🇳 India, passionate about building, deploying, automating and maintaining reliable applications and infrastructure.
+I am a **DevOps & DevSecOps Engineer** focused on building reliable, secure, automated, and scalable infrastructure and deployment pipelines.
 
-- 🔭 Currently working on **DevOps, DevSecOps and Cloud Infrastructure**
-- 🌱 Learning **Kubernetes, Terraform, Jenkins, AWS and CI/CD**
-- ⚙️ Working with **Linux Servers, Docker and Infrastructure Automation**
-- 💻 Backend experience with **Java & Spring Boot**
-- 🔐 Interested in **DevSecOps, Security and Infrastructure Hardening**
-- 🛠️ Building projects involving **CI/CD, Terraform and Cloud**
-- 💬 Ask me about **Linux, DevOps, Java, Git, Docker and CI/CD**
-- 📫 Reach me at **agnihotriarpit353@gmail.com**
+My work and learning primarily revolve around **Linux administration, CI/CD, cloud infrastructure, containerization, infrastructure as code, monitoring, automation, and backend technologies**.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
-
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-
-</p>
-
-### 📊 Monitoring & Tools
-
-<p align="left">
-
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-
-</p>
+* 🔭 Working with **DevOps, DevSecOps, Cloud Infrastructure and Automation**
+* ⚙️ Experienced with **Linux Server Administration and Application Deployment**
+* 🚀 Building and managing **CI/CD pipelines using Jenkins and GitHub**
+* 🐳 Working with **Docker and Kubernetes for containerized deployments**
+* ☁️ Exploring and managing infrastructure on **AWS**
+* 🏗️ Implementing **Infrastructure as Code using Terraform**
+* 🤖 Automating infrastructure and server configuration using **Ansible and Bash**
+* 📊 Working with monitoring and observability tools including **Prometheus, Grafana, Zabbix and Nagios**
+* 💻 Backend development experience with **Java and Spring Boot**
+* 🐍 Using **Python and Bash scripting for automation and operational tasks**
+* 🔐 Interested in **DevSecOps, Infrastructure Security and Secure CI/CD Practices**
+* 📚 Continuously improving my knowledge of **Cloud Native and Production Infrastructure**
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Technical Skills
+
+## 💻 Languages & Frameworks
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"/>
+
+</p>
+
+**Java • Spring Boot • Python • Bash Scripting**
+
+---
+
+## ☁️ DevOps, Cloud & Infrastructure
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="55"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55"/>
+
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48"/>
+
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48"/>
+
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="48" height="48"/>
+
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48"/>
+
+</p>
+
+**AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible • Linux • Git • GitHub • Nginx**
+
+---
+
+## 📊 Monitoring & Observability
+
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="48" height="48"/>
+
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="48" height="48"/>
+
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="48" height="48"/>
+
+<img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="48" height="48"/>
+
+</p>
+
+**Prometheus • Grafana • Zabbix • Nagios**
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="55"/>
+
+</p>
+
+**MySQL • MongoDB • PostgreSQL**
+
+---
+
+## 🔄 DevOps Workflow
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+ GitHub
+    │
+    ▼
+ Jenkins
+  CI/CD
+    │
+    ▼
+  Docker
+    │
+    ▼
+Kubernetes
+    │
+    ▼
+   AWS
+    │
+    ▼
+Monitoring & Observability
+    │
+    ├── Prometheus
+    ├── Grafana
+    ├── Zabbix
+    └── Nagios
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -113,7 +170,7 @@ I'm **Arpit Agnihotri**, a DevOps & DevSecOps enthusiast from 🇮🇳 India, pa
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -123,7 +180,7 @@ I'm **Arpit Agnihotri**, a DevOps & DevSecOps enthusiast from 🇮🇳 India, pa
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -133,35 +190,60 @@ I'm **Arpit Agnihotri**, a DevOps & DevSecOps enthusiast from 🇮🇳 India, pa
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛡️ CyberShield
+## 🛡️ CyberShield
 
-A security-focused application consisting of frontend and backend services.
+Security-focused application consisting of frontend and backend services.
 
-**Technologies:** Java, Spring Boot, TypeScript, REST APIs
+**Technology Stack**
 
-[![Frontend](https://img.shields.io/badge/CyberShield-Frontend-blue?style=for-the-badge&logo=github)](https://github.com/arpitagni1/Cybershield-Frontend)
+`Java` `Spring Boot` `TypeScript` `REST APIs`
 
-[![Backend](https://img.shields.io/badge/CyberShield-Backend-green?style=for-the-badge&logo=github)](https://github.com/arpitagni1/Cybershield-Backend)
+[![Frontend](https://img.shields.io/badge/CyberShield-Frontend-0366d6?style=for-the-badge\&logo=github)](https://github.com/arpitagni1/Cybershield-Frontend)
 
-### 🏗️ Terraform Infrastructure
-
-Infrastructure-as-Code examples and Terraform configurations.
-
-[![Terraform](https://img.shields.io/badge/Terraform-Repository-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/arpitagni1/Terraform_files)
+[![Backend](https://img.shields.io/badge/CyberShield-Backend-238636?style=for-the-badge\&logo=github)](https://github.com/arpitagni1/Cybershield-Backend)
 
 ---
 
-## 🌐 Connect With Me
+## 🏗️ Terraform Infrastructure
+
+Infrastructure-as-Code configurations and examples for automating cloud infrastructure using Terraform.
+
+**Technology Stack**
+
+`Terraform` `AWS` `Infrastructure as Code` `DevOps`
+
+[![Terraform](https://img.shields.io/badge/Terraform-Repository-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)](https://github.com/arpitagni1/Terraform_files)
+
+---
+
+# 🎯 Current Focus
+
+```text
+✔ CI/CD Pipeline Engineering
+✔ Docker Containerization
+✔ Kubernetes Orchestration
+✔ AWS Cloud Infrastructure
+✔ Terraform Infrastructure as Code
+✔ Ansible Automation
+✔ Linux Administration
+✔ Infrastructure Monitoring
+✔ DevSecOps Practices
+✔ Production Deployment & Troubleshooting
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-agnihotri-379048270/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit_Agnihotri-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arpit-agnihotri-379048270/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitagni1)
+[![GitHub](https://img.shields.io/badge/GitHub-arpitagni1-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arpitagni1)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnihotriarpit353@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:agnihotriarpit353@gmail.com)
 
 </div>
 
@@ -169,10 +251,10 @@ Infrastructure-as-Code examples and Terraform configurations.
 
 <div align="center">
 
-### 💡 "Automate everything that doesn't require human judgment."
+### Building reliable infrastructure through automation, monitoring and continuous improvement.
 
-![Profile Views](https://komarev.com/ghpvc/?username=arpitagni1&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=arpitagni1\&color=0e75b6\&style=flat-square)
 
-[![GitHub followers](https://img.shields.io/github/followers/arpitagni1?label=Followers&style=social)](https://github.com/arpitagni1)
+[![GitHub followers](https://img.shields.io/github/followers/arpitagni1?label=Followers\&style=social)](https://github.com/arpitagni1)
 
 </div>
