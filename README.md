@@ -81,6 +81,7 @@ My work and learning primarily revolve around **Linux administration, CI/CD, clo
 
 ---
 
+
 ## 📊 Monitoring & Observability
 
 <p align="left">
@@ -93,11 +94,13 @@ My work and learning primarily revolve around **Linux administration, CI/CD, clo
 
 <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="48" height="48"/>
 
+
 </p>
 
 **Prometheus • Grafana • Zabbix • Nagios**
 
 ---
+
 
 ## 🗄️ Databases
 
@@ -111,44 +114,11 @@ My work and learning primarily revolve around **Linux administration, CI/CD, clo
 
 </p>
 
+
 **MySQL • MongoDB • PostgreSQL**
 
 ---
 
-## 🔄 DevOps Workflow
-
-```text
-Developer
-    │
-    ▼
-   Git
-    │
-    ▼
- GitHub
-    │
-    ▼
- Jenkins
-  CI/CD
-    │
-    ▼
-  Docker
-    │
-    ▼
-Kubernetes
-    │
-    ▼
-   AWS
-    │
-    ▼
-Monitoring & Observability
-    │
-    ├── Prometheus
-    ├── Grafana
-    ├── Zabbix
-    └── Nagios
-```
-
----
 
 # 📊 GitHub Analytics
 
