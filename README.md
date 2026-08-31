@@ -135,7 +135,6 @@
 
 ---
 
-# 🌐 3D Contribution Graph
 
 <div align="center">
 
