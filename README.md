@@ -10,25 +10,17 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I am a **DevOps & DevSecOps Engineer** focused on building reliable, secure, automated, and scalable infrastructure and deployment pipelines.
+I am a DevOps & DevSecOps Engineer focused on building secure, reliable, automated, and scalable infrastructure and CI/CD systems.
 
-My work and learning primarily revolve around **Linux administration, CI/CD, cloud infrastructure, containerization, infrastructure as code, monitoring, automation, and backend technologies**.
+🚀 CI/CD & DevSecOps: Jenkins, GitHub, secure CI/CD practices, application deployment and infrastructure security
+☁️ Cloud & Infrastructure: AWS, Linux Administration, Docker, Kubernetes and Cloud Native infrastructure
+🏗️ IaC & Automation: Terraform, Ansible, Bash and Python for infrastructure provisioning, configuration and operational automation
+📊 Monitoring & Observability: Prometheus, Grafana, Zabbix and Nagios for production infrastructure monitoring
+💻 Backend & Production: Java, Spring Boot, Linux server administration, production deployment and troubleshooting
 
-* 🔭 Working with **DevOps, DevSecOps, Cloud Infrastructure and Automation**
-* ⚙️ Experienced with **Linux Server Administration and Application Deployment**
-* 🚀 Building and managing **CI/CD pipelines using Jenkins and GitHub**
-* 🐳 Working with **Docker and Kubernetes for containerized deployments**
-* ☁️ Exploring and managing infrastructure on **AWS**
-* 🏗️ Implementing **Infrastructure as Code using Terraform**
-* 🤖 Automating infrastructure and server configuration using **Ansible and Bash**
-* 📊 Working with monitoring and observability tools including **Prometheus, Grafana, Zabbix and Nagios**
-* 💻 Backend development experience with **Java and Spring Boot**
-* 🐍 Using **Python and Bash scripting for automation and operational tasks**
-* 🔐 Interested in **DevSecOps, Infrastructure Security and Secure CI/CD Practices**
-* 📚 Continuously improving my knowledge of **Cloud Native and Production Infrastructure**
-
+📚 Continuously improving my knowledge of DevSecOps, Cloud Native technologies and Production Infrastructure.
 ---
 
 # 🛠️ Technical Skills
