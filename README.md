@@ -4,23 +4,21 @@
 
 ### DevOps & DevSecOps Engineer | Cloud | Automation | Infrastructure
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=750\&lines=DevOps+%26+DevSecOps+Engineer;CI%2FCD+%7C+Cloud+%7C+Infrastructure+Automation;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;Linux+%7C+AWS+%7C+Ansible;Java+%7C+Spring+Boot+%7C+Python;Monitoring+%7C+Observability+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=DevOps+%26+DevSecOps+Engineer;CI%2FCD+%7C+Cloud+%7C+Infrastructure+Automation;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;Linux+%7C+AWS+%7C+Ansible;Java+%7C+Spring+Boot+%7C+Python;Monitoring+%7C+Observability+%7C+Automation)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a DevOps & DevSecOps Engineer focused on building secure, reliable, automated, and scalable infrastructure and CI/CD systems.
+- 🚀 **CI/CD & DevSecOps:** Jenkins, GitHub, secure CI/CD practices, application deployment and infrastructure security
+- ☁️ **Cloud & Infrastructure:** AWS, Linux Administration, Docker, Kubernetes and Cloud Native infrastructure
+- 🏗️ **IaC & Automation:** Terraform, Ansible, Bash and Python for infrastructure provisioning, configuration and operational automation
+- 📊 **Monitoring & Observability:** Prometheus, Grafana, Zabbix and Nagios for production infrastructure monitoring
+- 💻 **Backend & Production:** Java, Spring Boot, Linux server administration, production deployment and troubleshooting
+- 📚 Continuously improving my knowledge of **DevSecOps, Cloud Native technologies and Production Infrastructure**
 
-🚀 CI/CD & DevSecOps: Jenkins, GitHub, secure CI/CD practices, application deployment and infrastructure security
-☁️ Cloud & Infrastructure: AWS, Linux Administration, Docker, Kubernetes and Cloud Native infrastructure
-🏗️ IaC & Automation: Terraform, Ansible, Bash and Python for infrastructure provisioning, configuration and operational automation
-📊 Monitoring & Observability: Prometheus, Grafana, Zabbix and Nagios for production infrastructure monitoring
-💻 Backend & Production: Java, Spring Boot, Linux server administration, production deployment and troubleshooting
-
-📚 Continuously improving my knowledge of DevSecOps, Cloud Native technologies and Production Infrastructure.
 ---
 
 # 🛠️ Technical Skills
@@ -73,7 +71,6 @@ I am a DevOps & DevSecOps Engineer focused on building secure, reliable, automat
 
 ---
 
-
 ## 📊 Monitoring & Observability
 
 <p align="left">
@@ -86,13 +83,11 @@ I am a DevOps & DevSecOps Engineer focused on building secure, reliable, automat
 
 <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="48" height="48"/>
 
-
 </p>
 
 **Prometheus • Grafana • Zabbix • Nagios**
 
 ---
-
 
 ## 🗄️ Databases
 
@@ -106,11 +101,9 @@ I am a DevOps & DevSecOps Engineer focused on building secure, reliable, automat
 
 </p>
 
-
 **MySQL • MongoDB • PostgreSQL**
 
 ---
-
 
 # 📊 GitHub Analytics
 
@@ -142,11 +135,11 @@ I am a DevOps & DevSecOps Engineer focused on building secure, reliable, automat
 
 ---
 
-# 📈 Contribution Activity
+# 🌐 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitagni1&theme=tokyo-night&hide_border=true"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="900"/>
 
 </div>
 
@@ -162,9 +155,9 @@ Security-focused application consisting of frontend and backend services.
 
 `Java` `Spring Boot` `TypeScript` `REST APIs`
 
-[![Frontend](https://img.shields.io/badge/CyberShield-Frontend-0366d6?style=for-the-badge\&logo=github)](https://github.com/arpitagni1/Cybershield-Frontend)
+[![Frontend](https://img.shields.io/badge/CyberShield-Frontend-0366d6?style=for-the-badge&logo=github)](https://github.com/arpitagni1/Cybershield-Frontend)
 
-[![Backend](https://img.shields.io/badge/CyberShield-Backend-238636?style=for-the-badge\&logo=github)](https://github.com/arpitagni1/Cybershield-Backend)
+[![Backend](https://img.shields.io/badge/CyberShield-Backend-238636?style=for-the-badge&logo=github)](https://github.com/arpitagni1/Cybershield-Backend)
 
 ---
 
@@ -176,7 +169,7 @@ Infrastructure-as-Code configurations and examples for automating cloud infrastr
 
 `Terraform` `AWS` `Infrastructure as Code` `DevOps`
 
-[![Terraform](https://img.shields.io/badge/Terraform-Repository-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)](https://github.com/arpitagni1/Terraform_files)
+[![Terraform](https://img.shields.io/badge/Terraform-Repository-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/arpitagni1/Terraform_files)
 
 ---
 
@@ -193,30 +186,3 @@ Infrastructure-as-Code configurations and examples for automating cloud infrastr
 ✔ Infrastructure Monitoring
 ✔ DevSecOps Practices
 ✔ Production Deployment & Troubleshooting
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit_Agnihotri-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arpit-agnihotri-379048270/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-arpitagni1-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arpitagni1)
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:agnihotriarpit353@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### Building reliable infrastructure through automation, monitoring and continuous improvement.
-
-![Profile Views](https://komarev.com/ghpvc/?username=arpitagni1\&color=0e75b6\&style=flat-square)
-
-[![GitHub followers](https://img.shields.io/github/followers/arpitagni1?label=Followers\&style=social)](https://github.com/arpitagni1)
-
-</div>
