@@ -125,6 +125,20 @@
 
 ---
 
+# 📈 GitHub Contribution & Activity
+
+<div align="center">
+
+<img
+  src="./assets/github-activity.svg"
+  width="100%"
+  alt="Animated GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
 # 🏆 GitHub Achievements
 
 <div align="center">
