@@ -63,7 +63,7 @@ text {
     y="36"
     class="title"
 >
-13 contributions in the last year
+14 contributions in the last year
 </text>
 
 
@@ -200,18 +200,6 @@ Jul
 >
 Aug
 </text>
-
-
-<rect
-    x="90"
-    y="115"
-    width="11"
-    height="11"
-    rx="2"
-    fill="#161b22"
->
-<title>2025-09-01: 0 contributions</title>
-</rect>
 
 
 <rect
@@ -4599,7 +4587,7 @@ Aug
     fill="#39d353"
 >
 
-<title>2026-08-31: 7 contributions</title>
+<title>2026-08-31: 8 contributions</title>
 
 <animate
     attributeName="opacity"
@@ -4609,6 +4597,18 @@ Aug
     repeatCount="indefinite"
 />
 
+</rect>
+
+
+<rect
+    x="870"
+    y="130"
+    width="11"
+    height="11"
+    rx="2"
+    fill="#161b22"
+>
+<title>2026-09-01: 0 contributions</title>
 </rect>
 
 
@@ -4770,7 +4770,7 @@ Commits
     y="395"
     class="text"
 >
-12
+13
 </text>
 
 <text
