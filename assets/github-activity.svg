@@ -204,18 +204,6 @@ Aug
 
 <rect
     x="90"
-    y="160"
-    width="11"
-    height="11"
-    rx="2"
-    fill="#161b22"
->
-<title>2025-09-04: 0 contributions</title>
-</rect>
-
-
-<rect
-    x="90"
     y="175"
     width="11"
     height="11"
@@ -4609,6 +4597,18 @@ Aug
     fill="#161b22"
 >
 <title>2026-09-03: 0 contributions</title>
+</rect>
+
+
+<rect
+    x="870"
+    y="175"
+    width="11"
+    height="11"
+    rx="2"
+    fill="#161b22"
+>
+<title>2026-09-04: 0 contributions</title>
 </rect>
 
 
