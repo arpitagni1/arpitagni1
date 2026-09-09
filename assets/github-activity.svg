@@ -63,7 +63,7 @@ text {
     y="36"
     class="title"
 >
-14 contributions in the last year
+18 contributions in the last year
 </text>
 
 
@@ -209,18 +209,6 @@ Aug
 >
 Sep
 </text>
-
-
-<rect
-    x="90"
-    y="130"
-    width="11"
-    height="11"
-    rx="2"
-    fill="#161b22"
->
-<title>2025-09-09: 0 contributions</title>
-</rect>
 
 
 <rect
@@ -4621,6 +4609,28 @@ Sep
 </rect>
 
 
+<rect
+    x="870"
+    y="145"
+    width="11"
+    height="11"
+    rx="2"
+    fill="#006d32"
+>
+
+<title>2026-09-09: 4 contributions</title>
+
+<animate
+    attributeName="opacity"
+    values="0.55;1;0.75;1"
+    dur="3s"
+    begin="1.19s"
+    repeatCount="indefinite"
+/>
+
+</rect>
+
+
 <line
     x1="90"
     y1="92"
@@ -4779,7 +4789,7 @@ Commits
     y="395"
     class="text"
 >
-13
+16
 </text>
 
 <text
