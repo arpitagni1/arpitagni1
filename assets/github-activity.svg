@@ -99,15 +99,6 @@ Fri
     y="88"
     class="text"
 >
-Sep
-</text>
-
-
-<text
-    x="105"
-    y="88"
-    class="text"
->
 Oct
 </text>
 
@@ -209,18 +200,6 @@ Aug
 >
 Sep
 </text>
-
-
-<rect
-    x="90"
-    y="130"
-    width="11"
-    height="11"
-    rx="2"
-    fill="#161b22"
->
-<title>2025-09-30: 0 contributions</title>
-</rect>
 
 
 <rect
@@ -4628,6 +4607,18 @@ Sep
     fill="#161b22"
 >
 <title>2026-09-29: 0 contributions</title>
+</rect>
+
+
+<rect
+    x="870"
+    y="145"
+    width="11"
+    height="11"
+    rx="2"
+    fill="#161b22"
+>
+<title>2026-09-30: 0 contributions</title>
 </rect>
 
 
