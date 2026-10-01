@@ -204,18 +204,6 @@ Sep
 
 <rect
     x="90"
-    y="145"
-    width="11"
-    height="11"
-    rx="2"
-    fill="#161b22"
->
-<title>2025-10-01: 0 contributions</title>
-</rect>
-
-
-<rect
-    x="90"
     y="160"
     width="11"
     height="11"
@@ -4619,6 +4607,18 @@ Sep
     fill="#161b22"
 >
 <title>2026-09-30: 0 contributions</title>
+</rect>
+
+
+<rect
+    x="870"
+    y="160"
+    width="11"
+    height="11"
+    rx="2"
+    fill="#161b22"
+>
+<title>2026-10-01: 0 contributions</title>
 </rect>
 
 
