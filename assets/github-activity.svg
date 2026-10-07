@@ -213,18 +213,6 @@ Oct
 
 <rect
     x="90"
-    y="130"
-    width="11"
-    height="11"
-    rx="2"
-    fill="#161b22"
->
-<title>2025-10-07: 0 contributions</title>
-</rect>
-
-
-<rect
-    x="90"
     y="145"
     width="11"
     height="11"
@@ -4628,6 +4616,18 @@ Oct
     fill="#161b22"
 >
 <title>2026-10-06: 0 contributions</title>
+</rect>
+
+
+<rect
+    x="870"
+    y="145"
+    width="11"
+    height="11"
+    rx="2"
+    fill="#161b22"
+>
+<title>2026-10-07: 0 contributions</title>
 </rect>
 
 
